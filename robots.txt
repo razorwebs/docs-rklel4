@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-8755u3.salamcuanwin.cfd/sitemap.xml
